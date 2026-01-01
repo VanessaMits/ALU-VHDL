@@ -1,0 +1,16 @@
+# Vivado generated folders/files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.str
+
+# Ignore the full Vivado sources tree (we keep only /src)
+ALU_Arithmetic_Logic_Project.srcs/
+
+# OS junk
+.DS_Store
+Thumbs.db
